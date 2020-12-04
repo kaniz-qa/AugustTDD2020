@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Ups Test Suite">
+  <test name="Ups Login Test">
+    <classes>
+      <class name="com.ups.testRunner.UpsTestRunner"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
